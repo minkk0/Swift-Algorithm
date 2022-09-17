@@ -1,10 +1,3 @@
-//
-//  4번.swift
-//  Swift Algorithm
-//
-//  Created by 민경 on 2022/09/18.
-//
-
 // 하샤드의 수
 func solution(_ x:Int) -> Bool {
     var sum = 0

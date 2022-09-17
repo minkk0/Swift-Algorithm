@@ -1,10 +1,3 @@
-//
-//  3번.swift
-//  Swift Algorithm
-//
-//  Created by 민경 on 2022/09/18.
-//
-
 // 약수의 합 구하기
 import Foundation
 func solution(_ n:Int) -> Int {
