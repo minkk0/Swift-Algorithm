@@ -1,4 +1,4 @@
-// 하샤드의 수
+// 4. 하샤드의 수
 func solution(_ x:Int) -> Bool {
     var sum = 0
   for i in String(x) {

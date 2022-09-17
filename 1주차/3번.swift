@@ -1,4 +1,4 @@
-// 약수의 합 구하기
+// 3. 약수의 합 구하기
 import Foundation
 func solution(_ n:Int) -> Int {
     guard n != 0 else {

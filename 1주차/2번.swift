@@ -1,4 +1,4 @@
-// 평균 구하기
+// 2. 평균 구하기
 import Foundation
 func solution(_ arr:[Int]) -> Double {
     var sum: Int = 0
