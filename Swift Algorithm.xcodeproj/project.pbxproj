@@ -14,6 +14,7 @@
 		946D62BF28D632F2005588B3 /* Swift_AlgorithmTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946D62BE28D632F2005588B3 /* Swift_AlgorithmTests.swift */; };
 		946D62C928D632F2005588B3 /* Swift_AlgorithmUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946D62C828D632F2005588B3 /* Swift_AlgorithmUITests.swift */; };
 		946D62CB28D632F2005588B3 /* Swift_AlgorithmUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946D62CA28D632F2005588B3 /* Swift_AlgorithmUITestsLaunchTests.swift */; };
+		946D62D928D63333005588B3 /* 1번.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946D62D828D63333005588B3 /* 1번.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		946D62C428D632F2005588B3 /* Swift AlgorithmUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift AlgorithmUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		946D62C828D632F2005588B3 /* Swift_AlgorithmUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AlgorithmUITests.swift; sourceTree = "<group>"; };
 		946D62CA28D632F2005588B3 /* Swift_AlgorithmUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_AlgorithmUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		946D62D828D63333005588B3 /* 1번.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1번.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 		946D62A128D632F1005588B3 = {
 			isa = PBXGroup;
 			children = (
+				946D62D728D63327005588B3 /* 1주차 */,
 				946D62AC28D632F1005588B3 /* Swift Algorithm */,
 				946D62BD28D632F2005588B3 /* Swift AlgorithmTests */,
 				946D62C728D632F2005588B3 /* Swift AlgorithmUITests */,
@@ -125,6 +128,15 @@
 				946D62CA28D632F2005588B3 /* Swift_AlgorithmUITestsLaunchTests.swift */,
 			);
 			path = "Swift AlgorithmUITests";
+			sourceTree = "<group>";
+		};
+		946D62D728D63327005588B3 /* 1주차 */ = {
+			isa = PBXGroup;
+			children = (
+				946D62D828D63333005588B3 /* 1번.swift */,
+			);
+			name = "1주차";
+			path = "1주차";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -257,6 +269,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				946D62D928D63333005588B3 /* 1번.swift in Sources */,
 				946D62B028D632F1005588B3 /* ContentView.swift in Sources */,
 				946D62AE28D632F1005588B3 /* Swift_AlgorithmApp.swift in Sources */,
 			);
